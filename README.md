@@ -8,7 +8,7 @@
 
 Experience music streaming reimagined with a beautiful desktop player that puts you in control.
 
-[Download for Windows](#download) • [Features](#features) • [Screenshots](#screenshots)
+[Download for Windows](#download) • [Features](https://2kmusic.qzz.io/features) • [Website](https://2kmusic.qzz.io)
 
 ---
 
@@ -97,15 +97,11 @@ Experience music streaming reimagined with a beautiful desktop player that puts 
 5. **Download** - Save tracks for offline listening
 6. **Customize** - Adjust equalizer settings and preferences
 
-## Screenshots
+## Live Demo
 
-> Add your screenshots here showing:
-> - Main player interface
-> - Now playing sidebar
-> - Search results
-> - Playlist view
-> - Miniplayer
-> - Settings/Equalizer
+Experience 2k Music in action at [2kmusic.qzz.io](https://2kmusic.qzz.io)
+
+Check out all features and screenshots at [2kmusic.qzz.io/features](https://2kmusic.qzz.io/features)
 
 ## Tech Stack
 
